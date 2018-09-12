@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/Base.cpp
+Base.h
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/Base.h
+iostream
+-
+
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/Base.h
+
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1.cpp
+D1.h
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1.h
+iostream
+-
+
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1.h
+Base.h
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/Base.h
+
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1a.cpp
+D1a.h
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1a.h
+iostream
+-
+
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1a.h
+
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/D2.cpp
+D2.h
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/D2.h
+iostream
+-
+
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/D2.h
+D1.h
+/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1.h
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/FlyBehavior.cpp
+iostream
+-
+string
+-
+FlyBehavior.h
+/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/FlyBehavior.h
+
+/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/FlyBehavior.h
+string
+-
+

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HW3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HW3">
+				<Option output="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/cmake-build-debug/HW3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW3"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HW3/fast">
+				<Option output="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/cmake-build-debug/HW3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 HW3/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jiaqiyang/Desktop/ECE\ 30862/HW3/HW3b/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/Dog.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/Dog.h">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/DogToy.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/DogToy.h">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/Duck.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/Duck.h">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/DuckSim.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/FlyBehavior.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/FlyBehavior.h">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/FlyWithWings.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/FlyWithWings.h">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/Mallard.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/Mallard.h">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/NoFly.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/NoFly.h">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/NoQuack.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/NoQuack.h">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/Quack.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/Quack.h">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/QuackQuack.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/QuackQuack.h">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/RedHead.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/RedHead.h">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/Rubber.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/Rubber.h">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/Squeak.cpp">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/Squeak.h">
+			<Option target="HW3"/>
+		</Unit>
+		<Unit filename="/Users/jiaqiyang/Desktop/ECE 30862/HW3/HW3b/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
