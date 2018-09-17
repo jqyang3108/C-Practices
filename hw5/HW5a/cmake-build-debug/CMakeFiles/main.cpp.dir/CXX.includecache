@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw5/HW5a/Base.h
+iostream
+-
+string
+-
+
+/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw5/HW5a/PublicDerived.h
+iostream
+-
+string
+-
+Base.h
+/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw5/HW5a/Base.h
+
+/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw5/HW5a/dPublic.cpp
+dPublic.h
+/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw5/HW5a/dPublic.h
+
+/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw5/HW5a/dPublic.h
+iostream
+-
+string
+-
+PublicDerived.h
+/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw5/HW5a/PublicDerived.h
+
