@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/jiaqiyang/Desktop/ECE 30862/HW4"
+CMAKE_SOURCE_DIR = "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/main.cpp.dir/depend.make
@@ -59,55 +59,55 @@ include CMakeFiles/main.cpp.dir/flags.make
 
 CMakeFiles/main.cpp.dir/Base.cpp.o: CMakeFiles/main.cpp.dir/flags.make
 CMakeFiles/main.cpp.dir/Base.cpp.o: ../Base.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.cpp.dir/Base.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/Base.cpp.o -c "/Users/jiaqiyang/Desktop/ECE 30862/HW4/Base.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.cpp.dir/Base.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/Base.cpp.o -c "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/Base.cpp"
 
 CMakeFiles/main.cpp.dir/Base.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.cpp.dir/Base.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jiaqiyang/Desktop/ECE 30862/HW4/Base.cpp" > CMakeFiles/main.cpp.dir/Base.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/Base.cpp" > CMakeFiles/main.cpp.dir/Base.cpp.i
 
 CMakeFiles/main.cpp.dir/Base.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.cpp.dir/Base.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jiaqiyang/Desktop/ECE 30862/HW4/Base.cpp" -o CMakeFiles/main.cpp.dir/Base.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/Base.cpp" -o CMakeFiles/main.cpp.dir/Base.cpp.s
 
 CMakeFiles/main.cpp.dir/D1.cpp.o: CMakeFiles/main.cpp.dir/flags.make
 CMakeFiles/main.cpp.dir/D1.cpp.o: ../D1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.cpp.dir/D1.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/D1.cpp.o -c "/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.cpp.dir/D1.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/D1.cpp.o -c "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/D1.cpp"
 
 CMakeFiles/main.cpp.dir/D1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.cpp.dir/D1.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1.cpp" > CMakeFiles/main.cpp.dir/D1.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/D1.cpp" > CMakeFiles/main.cpp.dir/D1.cpp.i
 
 CMakeFiles/main.cpp.dir/D1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.cpp.dir/D1.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1.cpp" -o CMakeFiles/main.cpp.dir/D1.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/D1.cpp" -o CMakeFiles/main.cpp.dir/D1.cpp.s
 
 CMakeFiles/main.cpp.dir/D1a.cpp.o: CMakeFiles/main.cpp.dir/flags.make
 CMakeFiles/main.cpp.dir/D1a.cpp.o: ../D1a.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.cpp.dir/D1a.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/D1a.cpp.o -c "/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1a.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.cpp.dir/D1a.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/D1a.cpp.o -c "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/D1a.cpp"
 
 CMakeFiles/main.cpp.dir/D1a.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.cpp.dir/D1a.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1a.cpp" > CMakeFiles/main.cpp.dir/D1a.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/D1a.cpp" > CMakeFiles/main.cpp.dir/D1a.cpp.i
 
 CMakeFiles/main.cpp.dir/D1a.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.cpp.dir/D1a.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1a.cpp" -o CMakeFiles/main.cpp.dir/D1a.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/D1a.cpp" -o CMakeFiles/main.cpp.dir/D1a.cpp.s
 
 CMakeFiles/main.cpp.dir/D2.cpp.o: CMakeFiles/main.cpp.dir/flags.make
 CMakeFiles/main.cpp.dir/D2.cpp.o: ../D2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.cpp.dir/D2.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/D2.cpp.o -c "/Users/jiaqiyang/Desktop/ECE 30862/HW4/D2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.cpp.dir/D2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.cpp.dir/D2.cpp.o -c "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/D2.cpp"
 
 CMakeFiles/main.cpp.dir/D2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.cpp.dir/D2.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jiaqiyang/Desktop/ECE 30862/HW4/D2.cpp" > CMakeFiles/main.cpp.dir/D2.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/D2.cpp" > CMakeFiles/main.cpp.dir/D2.cpp.i
 
 CMakeFiles/main.cpp.dir/D2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.cpp.dir/D2.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jiaqiyang/Desktop/ECE 30862/HW4/D2.cpp" -o CMakeFiles/main.cpp.dir/D2.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/D2.cpp" -o CMakeFiles/main.cpp.dir/D2.cpp.s
 
 # Object files for target main.cpp
 main_cpp_OBJECTS = \
@@ -125,7 +125,7 @@ main.cpp: CMakeFiles/main.cpp.dir/D1a.cpp.o
 main.cpp: CMakeFiles/main.cpp.dir/D2.cpp.o
 main.cpp: CMakeFiles/main.cpp.dir/build.make
 main.cpp: CMakeFiles/main.cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable main.cpp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.cpp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -138,6 +138,6 @@ CMakeFiles/main.cpp.dir/clean:
 .PHONY : CMakeFiles/main.cpp.dir/clean
 
 CMakeFiles/main.cpp.dir/depend:
-	cd "/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/jiaqiyang/Desktop/ECE 30862/HW4" "/Users/jiaqiyang/Desktop/ECE 30862/HW4" "/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug" "/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug" "/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug/CMakeFiles/main.cpp.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4" "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4" "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug" "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug" "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug/CMakeFiles/main.cpp.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/main.cpp.dir/depend
 

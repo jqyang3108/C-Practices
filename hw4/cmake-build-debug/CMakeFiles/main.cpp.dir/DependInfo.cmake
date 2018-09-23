@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/jiaqiyang/Desktop/ECE 30862/HW4/Base.cpp" "/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug/CMakeFiles/main.cpp.dir/Base.cpp.o"
-  "/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1.cpp" "/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug/CMakeFiles/main.cpp.dir/D1.cpp.o"
-  "/Users/jiaqiyang/Desktop/ECE 30862/HW4/D1a.cpp" "/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug/CMakeFiles/main.cpp.dir/D1a.cpp.o"
-  "/Users/jiaqiyang/Desktop/ECE 30862/HW4/D2.cpp" "/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug/CMakeFiles/main.cpp.dir/D2.cpp.o"
+  "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/Base.cpp" "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug/CMakeFiles/main.cpp.dir/Base.cpp.o"
+  "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/D1.cpp" "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug/CMakeFiles/main.cpp.dir/D1.cpp.o"
+  "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/D1a.cpp" "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug/CMakeFiles/main.cpp.dir/D1a.cpp.o"
+  "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/D2.cpp" "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug/CMakeFiles/main.cpp.dir/D2.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

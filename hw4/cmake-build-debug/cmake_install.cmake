@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jiaqiyang/Desktop/ECE 30862/HW4
+# Install script for directory: /Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/jiaqiyang/Desktop/ECE 30862/HW4/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/jiaqiyang/Files/Academic/Fall2018/ECE 30862/CPP-Practices/hw4/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
